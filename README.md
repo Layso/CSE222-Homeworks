@@ -1,6 +1,8 @@
 # CSE222-Homeworks
 This repository contains all homeworks of the Data Structures and Algorithms course, Spring 2017
 
+Homeworks can be opened as IntelliJ projects starting from the HW4
+
 Teacher: Fatih Erdoğan Sevilgen
 
 TA's: Nur Banu Albayrak, Şeyma Yücer, Ahmet Soyyiğit
