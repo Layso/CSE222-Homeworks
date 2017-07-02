@@ -1,0 +1,11 @@
+Hasan
+Ayşe, Hasan, ebu-Ayşe
+Ali, Ayşe, ibn-Hasan
+Sema, Hasan, ebu-Ayşe
+Mürüfet, Hasan, ebu-Ayşe
+Rky, Mürüfet, ebu-Rky
+Burcu, Mürüfet, ebu-Rky
+Hakkı, Mürüfet, ibn-Hasan
+Can, Sema, ebu-Can
+Bilmem, Rky, ibn-Mürüfet
+Aaaa, Rky, ibn-Mürüfet
